@@ -1,0 +1,9 @@
+Auto1 - 11-May-2018
+1. Response status used( like 200, 404).
+2. Request methods known. Not used patch method?
+3. get or put, which one is idempotent?
+4. JPA or hibernate, which one is standard?
+5. Work on spring boot? how many microservices your last project has?
+
+Thought works - 11-May-2018
+Excercise
